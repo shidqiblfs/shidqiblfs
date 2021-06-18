@@ -2,7 +2,7 @@
 - 👀 I’m interested in finance, social media marketing, and project management
 - 🌱 I’m currently learning english
 - 💞️ I’m looking to collaborate on event project
-- 📫 How to reach me ...
+- 📫 How to reach me by email : shidqisalehh@gmail.com
 
 <!---
 shidqiblfs/shidqiblfs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
